@@ -2,7 +2,7 @@
 
 ## About
 
-This is the original and (almost) untouched leaked source code of Minecraft Legacy Console Edition.
+
 The goal of this repository is to keep it able to build for the 7th Generation Consoles (Xbox 360, PS3 and PSVita).
 
 Feel free to open a pull request to fix any issue in the source code. However, I won't accept any that adds new
